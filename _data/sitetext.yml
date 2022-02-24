@@ -89,7 +89,7 @@ en: &DEFAULT_EN
           #- url: https://twitter.com
             #icon: fab fa-twitter
           - url: https://github.com/YasirAhmadX
-             icon: "fab fa-github"
+            icon: "fab fa-github"
           #- url: https://facebook.com
             #icon: fab fa-facebook-f
           #- url: https://linkedin.com
