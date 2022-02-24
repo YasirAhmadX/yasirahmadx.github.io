@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "[Python](https://www.python.org/)"
         desc: "Interperated High-level programming language."
-        icon: fas fa-brands fa-python 
+        logo : assets/img/portfolio/practicals-thumbnail.jpg
       - title: "Machine Learning"
         desc: "Proficient in ML and AI."
-        icon: fas fa-duotone fa-microchip-ai
+        #icon: fas fa-duotone fa-microchip-ai
       - title: "[Arduino](https://www.arduino.cc/)"
         desc: "Open-source electronic prototyping platform."
-        icon: fab fa-solid fa-microchip
+        #icon: fab fa-solid fa-microchip
 
   portfolio:
     title: "Projects"
