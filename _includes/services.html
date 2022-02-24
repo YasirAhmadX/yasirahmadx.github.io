@@ -19,8 +19,10 @@
             <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
           </span>-->
           <h4 class="service-heading">{{ service.title | markdownify }}</h4>
-	  <img class="img-fluid d-block mx-auto" src="{{ services.logo }}" alt="{{ services.title }}" style="max-height: 100px">
-          {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
+	  
+          {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}
+		<img class="img-fluid d-block mx-auto" src="{{ services.logo }}" alt="{{ services.title }}" style="max-height: 100px">
+		</div>{% endif %}
         </div>
 	  {% endfor %}
       </div>
