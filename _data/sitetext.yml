@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         logo : assets/img/portfolio/practicals-thumbnail.jpg
       - title: "Machine Learning"
         desc: "Proficient in ML and AI."
-        #icon: fas fa-duotone fa-microchip-ai
+        logo: assets/img/clients/envato.jpg
       - title: "[Arduino](https://www.arduino.cc/)"
         desc: "Open-source electronic prototyping platform."
-        #icon: fab fa-solid fa-microchip
+        logo: assets/img/clients/themeforest.jpg
 
   portfolio:
     title: "Projects"
