@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Skills"
-    text: "Will itself is a skill."
+    text: "Will itself is a Skill."
     section: services
     list:
       - title: "[Python](https://www.python.org/)"
@@ -51,7 +51,7 @@ en: &DEFAULT_EN
         alt:
       - title: "GraphPlotter"
         year: "September 2020"
-        desc: "Experementing with Data Visualization and matplotlib"
+        desc: "Experimenting with Data Visualization and matplotlib"
         image: assets/img/timeline/3.jpg
         alt:
       - title: "Security Cam"
@@ -71,13 +71,13 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "My story"
-    body: "Whenever I wanted to build something, repair something or experiment on something...I always found myself lacking not the idea but tool and hardware. I like programming cause when I code, it's just me, my idea and my computer. Nothing to stop me, nothing can stop me. Atmost what I will need would be some aftermarket plugins, libraries, API which are effectively few clicks away. "
+    body: "Whenever I wanted to build something, repair something or experiment on something...I always found myself lacking, not the idea but the tools and hardware required. I like programming cause when I code, it's just me, my idea and my computer. Nothing to stop me, nothing can stop me. Atmost what I will need would be some aftermarket plugins, libraries, API which are effectively few clicks away. "
     section: about
 
 
 
   team:
-    title: " "
+    title: ""
     text: "Programming is a means for me to visualize and execute my thoughts."
     subtext: I'm Yasir Ahmad and write code cause it gives life to my ideas.
     section: team
