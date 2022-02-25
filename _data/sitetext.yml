@@ -34,8 +34,8 @@ en: &DEFAULT_EN
         logo: assets/img/clients/ML.jpg
       - title: "Arduino"
         logo: assets/img/clients/Arduino.jpg
-      - title: "Sql"
-        logo: assets/img/clients/mysql-logo.jpg
+      #- title: "Sql"
+        #logo: assets/img/clients/mysql-logo.jpg
       
   portfolio:
     title: "Projects"
