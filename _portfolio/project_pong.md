@@ -16,6 +16,6 @@ alt: pOng logo
 {:.list-inline}
 - **Date**: May-June 2021
 - **Topic**: pygame/ML
-- **Category**: pOng
+- **Category**: Game
 
 [**GOTO WEBSITE**](https://yasirahmadx.github.io/pOng)
