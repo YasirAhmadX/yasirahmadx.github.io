@@ -73,7 +73,7 @@ en: &DEFAULT_EN
       - title: "DigiDucky"
         year: "February 2022"
         desc: "DIY RubberDucky BLE device"
-        image: assets/img/portfolio/DigiDucky-thumbnail.jpeg
+        image: assets/img/timeline/DigiDucky-timeline.jpeg
         alt:
         # you can enforce the alignment
         align: right
