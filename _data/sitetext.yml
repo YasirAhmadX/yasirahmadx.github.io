@@ -21,18 +21,18 @@ en: &DEFAULT_EN
     text: "Will itself is a Skill."
     section: services
     list:
-      - title: "[Python](https://www.python.org/)"
-        desc: "Interperated High-level programming language."
-        logo : assets/img/portfolio/practicals-thumbnail.jpg
-        alt : py
-      - title: "Machine Learning"
-        desc: "Proficient in ML and AI."
-        logo: assets/img/clients/envato.jpg
-        alt : ml
-      - title: "[Arduino](https://www.arduino.cc/)"
-        desc: "Open-source electronic prototyping platform."
-        logo: assets/img/clients/themeforest.jpg
-        alt : arduino
+      #- title: "[Python](https://www.python.org/)"
+        #desc: "Interperated High-level programming language."
+        #logo : assets/img/portfolio/practicals-thumbnail.jpg
+        #alt : py
+      #- title: "Machine Learning"
+        #desc: "Proficient in ML and AI."
+        #logo: assets/img/clients/envato.jpg
+        #alt : ml
+      #- title: "[Arduino](https://www.arduino.cc/)"
+        #desc: "Open-source electronic prototyping platform."
+        #logo: assets/img/clients/themeforest.jpg
+        #alt : arduino
   clients:
     section: clients
     max-height: 100px
@@ -47,6 +47,9 @@ en: &DEFAULT_EN
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/timeline/timeline-pong.png
       
   portfolio:
     title: "Projects"
