@@ -26,18 +26,14 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "no" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/timeline/timeline-pong.png
+      - title: "C"
+        logo: assets/img/clients/C.jpg
+      - title: "Python"
+        logo: assets/img/clients/python-logo.jpg
+      - title: "ML"
+        logo: assets/img/clients/ML.jpg
+      - title: "Arduino"
+        logo: assets/img/timeline/Arduino.jpg
       
   portfolio:
     title: "Projects"
