@@ -24,12 +24,15 @@ en: &DEFAULT_EN
       - title: "[Python](https://www.python.org/)"
         desc: "Interperated High-level programming language."
         logo : assets/img/portfolio/practicals-thumbnail.jpg
+        alt : py
       - title: "Machine Learning"
         desc: "Proficient in ML and AI."
         logo: assets/img/clients/envato.jpg
+        alt : ml
       - title: "[Arduino](https://www.arduino.cc/)"
         desc: "Open-source electronic prototyping platform."
         logo: assets/img/clients/themeforest.jpg
+        alt : arduino
 
   portfolio:
     title: "Projects"
@@ -48,18 +51,22 @@ en: &DEFAULT_EN
         year: "2003"
         desc: "“You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.” – Zig Ziglar"
         image: assets/img/timeline/1.jpg
+        alt:
       - title: "GraphPlotter"
         year: "September 2020"
         desc: "Experimenting with Data Visualization and matplotlib"
         image: assets/img/timeline/3.jpg
+        alt:
       - title: "Security Cam"
         year: "January 2021"
         desc: "Learning Computer Vision and Motion detection."
         image: assets/img/timeline/SecurityCam.jpg
+        alt: 
       - title: "pOng"
         year: "May-June 2021"
         desc: "Created my first 2D game."
         image: assets/img/timeline/timeline-pong.png
+        alt:
         # you can enforce the alignment
         align: right
     end: "It's not <br> the end,<br> yet !"
