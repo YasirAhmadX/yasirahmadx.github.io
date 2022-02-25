@@ -47,9 +47,7 @@ en: &DEFAULT_EN
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      
   portfolio:
     title: "Projects"
     text: "Some of my works..."
