@@ -70,6 +70,11 @@ en: &DEFAULT_EN
         desc: "Created my first 2D game."
         image: assets/img/timeline/timeline-pong.png
         alt:
+      - title: "DigiDucky"
+        year: "February 2022"
+        desc: "DIY RubberDucky BLE device"
+        image: assets/img/portfolio/DigiDucky-thumbnail.jpeg
+        alt:
         # you can enforce the alignment
         align: right
     end: "It's not <br> the end,<br> yet !"
