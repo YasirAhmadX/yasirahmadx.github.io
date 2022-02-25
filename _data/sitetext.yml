@@ -89,8 +89,8 @@ en: &DEFAULT_EN
 
   team:
     title:
-    text: "Programming is a means for me to visualize and execute my thoughts."
-    subtext: I'm Yasir Ahmad and write code cause it gives life to my ideas.
+    #text: "Programming is a means for me to visualize and execute my thoughts."
+    subtext: I'm Yasir Ahmad and I write code cause it gives life to my ideas.
     section: team
     people:
       - name: "Yasir Ahmad"
