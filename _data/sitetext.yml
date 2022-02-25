@@ -20,19 +20,7 @@ en: &DEFAULT_EN
     title: "Skills"
     text: "Will itself is a Skill."
     section: services
-    list:
-      #- title: "[Python](https://www.python.org/)"
-        #desc: "Interperated High-level programming language."
-        #logo : assets/img/portfolio/practicals-thumbnail.jpg
-        #alt : py
-      #- title: "Machine Learning"
-        #desc: "Proficient in ML and AI."
-        #logo: assets/img/clients/envato.jpg
-        #alt : ml
-      #- title: "[Arduino](https://www.arduino.cc/)"
-        #desc: "Open-source electronic prototyping platform."
-        #logo: assets/img/clients/themeforest.jpg
-        #alt : arduino
+
   clients:
     section: clients
     max-height: 100px
@@ -97,7 +85,7 @@ en: &DEFAULT_EN
 
 
   team:
-    title: ""
+    title:
     text: "Programming is a means for me to visualize and execute my thoughts."
     subtext: I'm Yasir Ahmad and write code cause it gives life to my ideas.
     section: team
@@ -127,7 +115,7 @@ en: &DEFAULT_EN
     phone: "Phone Number"
     phone-validation: "Please enter your phone number."
     message: "Message*"
-    message-validation: "What's your message??"
+    message-validation: 
     subject: "Contact Form Submission"
     submit: "Send Message"
 
