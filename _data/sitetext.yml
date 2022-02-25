@@ -24,7 +24,7 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "no" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "C"
         logo: assets/img/clients/C.jpg
