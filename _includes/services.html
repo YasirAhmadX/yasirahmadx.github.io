@@ -10,21 +10,7 @@
 		  {% endif %}
         </div>
       </div>
-	  
-      <div class="row text-center">
-	  {% for service in site.data.sitetext[site.locale].services.list %}
-        <div class="col-md-4">
-          <h5 class="service-heading">{{ service.title | markdownify }}</h5>
-	  
-	  
-          {% if service.desc %}<div class="text-muted">
-		{{ service.desc | markdownify }}
-		
-		</div>{% endif %}
-        </div>
-	  {% endfor %}
-      </div>
-	  
+	
     </div>
   </section>
 <!-- End Services -->
