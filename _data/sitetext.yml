@@ -76,7 +76,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/DigiDucky-timeline.jpeg
         alt:
         # you can enforce the alignment
-        align: right
+        #align: right
     end: "It's not <br> the end,<br> yet !"
 
   about:
