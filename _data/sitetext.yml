@@ -103,8 +103,8 @@ en: &DEFAULT_EN
             icon: "fab fa-github"
           - url: https://www.kaggle.com/yasirahmad0810
             icon: "fab fa-kaggle"
-          #- url: https://linkedin.com
-            #icon: fab fa-linkedin-in  
+          - url: https://www.linkedin.com/in/yasir-ahmad0810/
+            icon: fab fa-linkedin-in  
            
 
   contact:
