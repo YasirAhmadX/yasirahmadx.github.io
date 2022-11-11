@@ -101,8 +101,8 @@ en: &DEFAULT_EN
             #icon: fab fa-twitter
           - url: https://github.com/YasirAhmadX
             icon: "fab fa-github"
-          #- url: https://facebook.com
-            #icon: fab fa-facebook-f
+          - url: https://www.kaggle.com/yasirahmad0810
+            icon: "fab fa-kaggle"
           #- url: https://linkedin.com
             #icon: fab fa-linkedin-in  
            
@@ -117,7 +117,7 @@ en: &DEFAULT_EN
     email-validation: "Please enter your email address."
     phone: "Phone Number"
     phone-validation: "Please enter your phone number."
-    message: "Message*"
+    message: "Message"
     message-validation: "Type in your message."
     subject: "Contact Form Submission"
     submit: "Send Message"
