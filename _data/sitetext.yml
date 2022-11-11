@@ -105,6 +105,8 @@ en: &DEFAULT_EN
             icon: "fab fa-kaggle"
           - url: https://www.linkedin.com/in/yasir-ahmad0810/
             icon: fab fa-linkedin-in  
+          - url: https://www.hackerrank.com/yasir_ahmad0810
+            icon: fab fa-hackerrank
            
 
   contact:
