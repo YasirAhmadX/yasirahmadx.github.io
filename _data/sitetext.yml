@@ -75,6 +75,11 @@ en: &DEFAULT_EN
         desc: "DIY RubberDucky BLE device"
         image: assets/img/timeline/DigiDucky-timeline.jpeg
         alt:
+      - title: "RockPaperScissors"
+        year: "July 2023"
+        desc: "MENACE-RockPaperScissors"
+        image: assets/img/portfolio/RockPaperScissors-Thumbnail.jpeg
+        alt:
         # you can enforce the alignment
         #align: right
     end: "It's not <br> the end,<br> yet !"
