@@ -11,8 +11,8 @@ image: assets/img/portfolio/RockPaperScissors-desc.jpeg #main image, can be a li
 alt: RPS-desc
 
 ---
-**Rock Paper Scissor** is an adaptation of MENACE (Machine Educable Noughts and Crosses Engine) of Donald Michie. It was a simple matchbox computer that used beads to alter
-the probability of wining or losing by means of reward and punishment. In modern ML, this is a type of reinforcement learning algorithm called Q-Learning algorithm.
+**Rock Paper Scissor** is an adaptation of **MENACE** (Machine Educable Noughts and Crosses Engine) of Donald Michie. It was a simple matchbox computer that used beads to alter
+the probability of wining or losing by means of reward and punishment. In modern ML, this is a type of reinforcement learning algorithm called **Q-Learning Algorithm**.
 
 {:.list-inline}
 - **Date**: July 2023
