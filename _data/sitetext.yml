@@ -78,7 +78,7 @@ en: &DEFAULT_EN
       - title: "RockPaperScissors"
         year: "July 2023"
         desc: "MENACE-RockPaperScissors"
-        image: assets/img/portfolio/RockPaperScissors-Thumbnail.jpeg
+        image: assets/img/timeline/RockPaperScissors-timeline.jpeg
         alt:
         # you can enforce the alignment
         #align: right
@@ -106,8 +106,8 @@ en: &DEFAULT_EN
             #icon: fab fa-twitter
           - url: https://github.com/YasirAhmadX
             icon: "fab fa-github"
-          - url: https://www.kaggle.com/yasirahmad0810
-            icon: "fab fa-kaggle"
+          #- url: https://www.kaggle.com/yasirahmad0810
+            #icon: "fab fa-kaggle"
           - url: https://www.linkedin.com/in/yasir-ahmad0810/
             icon: fab fa-linkedin-in  
           - url: https://www.hackerrank.com/yasir_ahmad0810
