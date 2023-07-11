@@ -87,7 +87,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "My story"
-    body: "Whenever I wanted to build something, repair something or experiment on something...I always found myself lacking, not the idea but the tools and hardware required. I like programming cause when I code, it's just me, my idea and my computer. Nothing to stop me, nothing can stop me. Atmost what I will need would be some aftermarket plugins, libraries, API which are effectively few clicks away. "
+    body: "I find programming to be incredibly empowering because it allows me to transform my ideas into reality without being hindered by the lack of physical tools or hardware. When I code, it's a personal and immersive experience where it's just me, my idea, and my computer.Even if you require additional resources, such as plugins, libraries, or APIs, they are just a few clicks away, readily available for integration into your projects. This accessibility empowers you to focus on your creativity and problem-solving skills, leveraging the vast array of online resources and the collaborative nature of the open-source community. With programming, the only limits you face are those of your imagination and determination. Programming provides me with a world of possibilities at my fingertips, where I can explore, experiment, and create without limitations."
     section: about
 
 
