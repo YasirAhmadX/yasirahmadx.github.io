@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Yasir Ahmad
 email      : yasir.ahmad0810@gmail.com #this is also the email contact forms will go to
-description: "Personal Website"
+description: "Portfolio"
 author     : Yasir Ahmad
 logo:     #optional, defaults to site title
   path: assets\img\logo.png
